@@ -1,0 +1,3 @@
+[submodule "cargo_hello_world/hello_cargo"]
+	path = cargo_hello_world/hello_cargo
+	url = https://github.com/caballerof/rust_practices.git
